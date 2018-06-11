@@ -40,7 +40,7 @@ Example:
 |Polygon_Area n| Print the polygon area of the nth polygon |
 |Polygons_Area_Range minArea,maxArea| List all Polygon IDs of polygons that have area <= minArea and >=maxArea. |
 |Polygons_Enclosing_Point (X,Y)| List all Polygon IDs of polygons that have the point (X,Y) inside it (or on its boundaries). |
-|Is_Intersecting i,j| | Prints TRUE if ith polygon intersects the jth polygon |
+|Is_Intersecting i,j| Prints TRUE if ith polygon intersects the jth polygon |
 |Intersecting_Group i,j,k| Print TRUE if the list of polygon are all intersecting with each other (each one is intersecting with all other polygons) |
 |Largest_Intersecting_Pair| Print the two IDs of polygons that are intersecting and having the largest sum of area. |
 |Largest_Rectangle_Inside n| Print the largest rectangle that can inside the nth polygon. |
