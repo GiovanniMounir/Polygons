@@ -50,5 +50,8 @@ Example:
 |Maximum_Intersecting_Group| List polygon IDs forming the largest set of polygons that are intersecting (any ID should intersect with All other IDs in the list) |
 |Maximum_Connected_Group| List polygon IDs forming the largest set of polygons that are connected directly or indirectly (through another polygon) |
 
+# Executables
+To download the most recent executable for Windows x86/x64, please click [here](https://github.com/GiovanniMounir/Polygons/releases/download/v1/Polygons.exe)
+
 # Disclaimer
 This project is no longer maintained and may not always yield correct results. Please [open an issue](https://github.com/GiovanniMounir/Polygons/issues/new) for bug reports or suggestions.
