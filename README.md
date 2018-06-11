@@ -46,7 +46,7 @@ Example:
 |Largest_Rectangle_Inside n| Print the largest rectangle that can be drawn inside the *n*th polygon. |
 |Largest_Circle_Inside n| Print the largest circle that can be drawn inside the *n*th polygon. |
 |Is_Connected i,j| Print TRUE if *i*th polygon is connected to the *j*th polygon |
-|Is_Connected_Group i,j,k| Print TRUE if all polygon in the list are connected. |
+|Is_Connected_Group i,j,k| Print TRUE if all polygons in the list are connected. |
 |Maximum_Intersecting_Group| List polygon IDs forming the largest set of polygons that are intersecting (any ID should intersect with All other IDs in the list) |
 |Maximum_Connected_Group| List polygon IDs forming the largest set of polygons that are connected directly or indirectly (through another polygon) |
 
